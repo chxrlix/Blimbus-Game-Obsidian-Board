@@ -11,10 +11,17 @@
             "id": "529963ffa81d0fdc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "canvas",
+              "state": {
+                "file": "The ENTIRE GAME.canvas",
+                "viewState": {
+                  "x": -10446.402917463953,
+                  "y": 4203.559912735799,
+                  "zoom": -1.4646937634150312
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "The ENTIRE GAME"
             }
           }
         ]
