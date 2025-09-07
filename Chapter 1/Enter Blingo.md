@@ -1,6 +1,6 @@
 Setting: Scrimbo's apartment on Crime Street.
 
-Scrimbo jolts awake to the sound of a blaring alarm and a commanding pounding from his front door. He srunches his face and blinks, groaning loudly. He looks to his alarm, scowling and slamming it into his nightstand, breaking it in the process. 
+Scrimbo jolts awake to the sound of a blaring alarm and a commanding pounding from his front door. He scrunches his face and blinks, groaning loudly. He looks to his alarm, scowling and slamming it into his nightstand, breaking it in the process. 
 
 Still in his nightgown, he walks to his front door, rubbing his face with his hand, with his other on the doorknob. He opens it, and Blingo's theme begins to play.
 
