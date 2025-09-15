@@ -1,36 +1,33 @@
+Sequence of Events:
+Blimbus orders
+Scrimbo introduced
+News story of first Tenevictim
+Scrimbo scares Blimbus while telling him about it
+Blimbus leaves, having also payed for Scrimbo's meal
 
-(Blimbus walks into Donny’s, giving a large breath to take in the Donny’s air.)  
-  
-B: “Ah… what a smelly smell.”  
-B: “I don’t have a nose.”  
-  
-(As Blimbus walks past the camera, we focus and zoom onto Scrimbo, who looks over to Blimbus and sighs. Blimbus takes a seat next to Scrimbo while waving happily.)  
-  
-B: “Mornin’ Scrimbo!”  
-  
-S: “Fuck off.”  
-  
-B: “What’s my best friend up to on this splendiferous da-!”  
-  
-S: “First off, not your friend.”  
-S: “Secondly, if you don’t leave me the hell alone, the only thing that will be ‘up…’
-  
-(Scrimbo holds up a bottle of adult beverage.)  
-  
-S: “Is this bottle… in your ass.”  
-  
-(Blimbus stares at him blankly before bursting out into laughter, putting his hand on Scrimbo’s shoulder while he speaks, not reacting when he slaps it off.)
-  
-B: “You’re the funniest guy I know!”  
-  
-(Scrimbo slides his check to Blimbus, flipping him off while he walks out.)  
-  
-S: “Here, make yourself useful.”  
-  
-B: “Y-Yeah, I got it bud!”
+(The camera focuses on the bell on the Donny's door, watching it ring as it opens. There is ambient clamoring of people eating and speaking, with a small montage showing how packed the diner is. We get a shot of the whole interior, then the door slams open with Blimbus in an instant profuse apology.)
 
-(Blimbus eats his meal, pays for both, and you have the option to leave or have silly food and talk to everyone in the joint. Upon exiting Donny’s, Blimbus says to himself)  
-  
-B: “Ah, I’m simply stuffed!”
-B: “Time to peruse the city at a leisurely pace!”
-B: “Woah… I sounded smart or something.”
+b1: "Donny I'm so sorry, I really really am, this will never happen again, I promise, I'm so sorry!!"
+
+(He stops at the counter, Donny looking at him confused.)
+
+d1: "Well howdy Blimbus... and sorry for what?"
+
+b2: "I owed you a favor and didn't show up on time... I was late..." (He admits, slumping on the counter in defeat.)
+
+d2: "Oh! yeah that..." (Donny says as if he had just remembered it.)
+d3: "So I guess that means you just owe me another, eh?" (He says with a hearty chuckle.)
+
+(Blimbus instantly rebounds back to happy.)
+
+b3: "Oh yay!!! Thank you Donny, thank you so much!"
+
+d4: "No prob, Bob... you want your usual?"
+
+b4: "Yeah, one plain bagel, extra plain please!"
+
+
+
+
+
+

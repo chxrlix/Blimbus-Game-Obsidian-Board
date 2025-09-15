@@ -2,9 +2,9 @@
 
 (Blimbus does a 3 point landing, pausing for dramatic effect before whipping his head up and smacking it on the back of a post. Pain and anguish occur for a couple seconds before he scrambles to his feet and runs off.)
 
-(Blimbus runs up to the entrance to the company, walking up to the door, but stopping as he sees a sign that reads "HIRING!!!" with a scribbled "no longer" in the corner. Cut to the same view of Blimbus at the end of the previous sequence, messy tie, suit coat unbuttoned. Blimbus looks peeved, to which he just rips off his suit and throws it on the ground, walking away without it.)
+(Blimbus runs up to the entrance of Donny's, walking up to the door, but stopping as he sees a sign that reads "Donny's out, be back in 10." Cut to the same view of Blimbus at the end of the previous sequence, looking disheveled and worn.)
 
-b1: "Yeah whatever I didn't want the job anyway."
+b1: "Yeah. Ok. Be back in 10." (He says while walking away,)
 
 (From a side view, Blimbus walks down the street, looking bummed. As he passes a dark alley, a flash of bright white light emits, drawing his attention.)
 
@@ -39,7 +39,7 @@ b6: "Well... I guess that happened."
 (Blimbus' stomach rumbles. Only realizing now how hungry he is, he smacks his lips.)
 
 b7: "Guess watching that goopy black thing absorb a Quinch worked up an appetite."
-b8: "I'll just head up to Donny's." (Blimbus begins to walk off.)
+b8: "I'll just head back to Donny's now." (Blimbus begins to walk off.)
 
 **END SCENE
 
