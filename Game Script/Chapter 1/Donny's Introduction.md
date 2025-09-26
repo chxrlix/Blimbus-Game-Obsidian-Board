@@ -26,6 +26,10 @@ d4: "No prob, Bob... you want your usual?"
 
 b4: "Yeah, one plain bagel, extra plain please!"
 
+d5: "Be out soon, take a seat bub."
+
+
+
 
 
 

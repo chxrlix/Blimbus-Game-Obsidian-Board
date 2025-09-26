@@ -21,7 +21,7 @@ Scrimbo tilts his head, squinting his eyes at Mystery Man to indicate confusion.
 
 "So what's your point, and when am I gonna start getting some answers?" Scrimbo questions.
 
-"I'm afraid you already know all the answers. I'm the one in the dark here! So let me ask you -- Where exactly is this, Scrimbo?"
+"  "
 
 Scrimbo scoffed, but humored the mysterious, testosterone ridden individual. He stared up into the sky and toward the distant horizons of nothing, watching the colors and hue shift as his impatience grows.
 
