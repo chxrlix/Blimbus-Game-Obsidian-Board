@@ -1,3 +1,5 @@
+Scene ID: 1.2.1
+
 **START OF SCENE
 
 (Blimbus does a 3 point landing, pausing for dramatic effect before whipping his head up and smacking it on the back of a post. Pain and anguish occur for a couple seconds before he scrambles to his feet and runs off.)
@@ -28,7 +30,7 @@ b4: "What... are you? Can you hear me?"
 
 (The creature jiggles, lurching to life to roll forward just slightly, then barreling down toward the entrance of the alley, going between Blimbus' legs. Blimbus whips his head around to watch the creature as it collides with an unfortunate animal walking past the entrance to the alley, pausing for a moment before slinking like a rotund snake in front of Blimbus, who wearily takes a step back.)
 
-(The creature stretches up, creating a thick stalk, before bits of itself spill out into a bean like shape, liquid inside bubbling, before an eye peeks to its surface, rolling to face Blimbus.)
+(The creature stretches up, creating a thick stalk, before bits of itself spill out into a bean like shape, liquid inside bubbling, before an eye peeks to its surface, rolling to face Blimbus. Tenebris Common Form.)
 
 (Blimbus lets out a nervous chuckle.) b5: "You're um... a cute little thing, hmm?"
 

@@ -62,17 +62,18 @@
 		{"id":"7602932b95da8b75","type":"file","file":"Game Script/Chapter 4/Stupid Gang Sewer Entrance.md","x":-10460,"y":2455,"width":447,"height":60},
 		{"id":"c8849e653fd28fbe","type":"file","file":"Game Script/Chapter 2/Blimbus vs Scrimbo.md","x":-10408,"y":-919,"width":344,"height":52},
 		{"id":"67397bcb883b0c3c","type":"file","file":"Game Script/Chapter 2/Chapter 2 Finito.md","x":-10380,"y":-719,"width":287,"height":52},
-		{"id":"ac270fac8a63f7dd","type":"text","text":"Chapter 2 - Five Nights at Donny's","x":-11017,"y":-559,"width":1565,"height":50},
+		{"id":"ac270fac8a63f7dd","type":"text","text":"Chapter 2 - Five Nights for Donny","x":-11017,"y":-559,"width":1565,"height":50},
 		{"id":"78cfbf097673845f","type":"text","text":"Chapter 3 - The Crimson Cult","x":-11018,"y":-439,"width":1565,"height":50},
 		{"id":"572c6e3b10378d10","type":"file","file":"Game Script/Chapter 1/Chapter 1 Finito.md","x":-10388,"y":-2719,"width":302,"height":52},
-		{"id":"b30db2fa5ae6e7a7","type":"text","text":"Chapter 2 - Five Nights at Donny's","x":-11017,"y":-2439,"width":1565,"height":50},
+		{"id":"b30db2fa5ae6e7a7","type":"text","text":"Chapter 2 - Five Nights for Donny","x":-11017,"y":-2439,"width":1565,"height":50},
 		{"id":"167ab825b946a1e8","type":"file","file":"Game Script/Chapter 2/Scrimbo Tenebris Explanation.md","x":-10464,"y":-2279,"width":456,"height":69},
 		{"id":"a28dedccb990373d","type":"file","file":"Game Script/Chapter 2/FNAD Setup.md","x":-10350,"y":-2079,"width":229,"height":65},
 		{"id":"6b19a9282e807757","type":"file","file":"Game Script/Chapter 1/Malignant Blimbus Boss.md","x":-10435,"y":-2907,"width":395,"height":52},
 		{"id":"3c87387393ba7cbb","type":"file","file":"Game Script/Chapter 1/Donny's Introduction.md","x":-10435,"y":-4500,"width":354,"height":53},
 		{"id":"0f9fd29092e4ad8b","type":"file","file":"Game Script/Chapter 1/Tenevictim News Report.md","x":-10930,"y":-4197,"width":401,"height":50},
 		{"id":"91f405b14e0c2e91","type":"file","file":"Game Script/Chapter 1/Tenebottle Release.md","x":-10877,"y":-4720,"width":299,"height":60},
-		{"id":"664cefda1e91af38","type":"text","text":"Chapter 1 - The Start of Something Terrible","x":-11020,"y":-2579,"width":1565,"height":50}
+		{"id":"664cefda1e91af38","type":"text","text":"Chapter 1 - The Start of Something Terrible","x":-11020,"y":-2579,"width":1565,"height":50},
+		{"id":"0093e691d164c396","x":-11457,"y":-5026,"width":250,"height":211,"type":"text","text":"Scene ID Legend\n\n1.2.3\n\n1 -  Chapter of Origin\n2 - Placement in Time\n3 - Subset of the scene"}
 	],
 	"edges":[
 		{"id":"ee56713053d15706","fromNode":"8e9115cc1feaa169","fromSide":"bottom","toNode":"a28608aa254a134c","toSide":"top"},

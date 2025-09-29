@@ -1,3 +1,5 @@
+Scene ID: 1.1.1
+
 **START OF SCENE
 
 (We open on a bright sky in perpetual early sunset, clouds strewn about a beaming sun. There is small lush ambiance featuring swaying foliage and the chirping of small animals. The camera pans down to a birds eye view of Jimple City, block zooming onto a small street, further to a small house, then to a floor view of the front door of the house.)
@@ -30,6 +32,8 @@ b8: "FFFFFFFIDDLESTICKS, I'M GONNA BE LATE!!!"
 Chapter 1: The Start of Something Terrible
 
 (B² ends as the screen fades to black.)
+
+Scene ID: 1.1.2
 
 (The camera pans to the side as if it were aimed at the dark wall of an alley, showing Blimbus sprinting down the road. It cuts to a side tracking view of Blimbus, who runs into a temporary sign pole. He looks up to see "UNDER CONSTRUCTION.")
 
