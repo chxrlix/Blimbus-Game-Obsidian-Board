@@ -48,9 +48,6 @@
 		{"id":"5ba3ce2cd845fb2a","type":"text","text":"Gives Blimbus $20 from Donny's in Chp. 1","x":-10670,"y":1656,"width":250,"height":60},
 		{"id":"c4063739a1b84fee","type":"file","file":"Game Script/Chapter 3/Enter Greeble (Chapter 3 Finito).md","x":-10481,"y":1868,"width":490,"height":60},
 		{"id":"95dc7968ad48f2fd","type":"file","file":"Game Script/Chapter 3/Crimson Cult Bust.md","x":-10401,"y":1213,"width":332,"height":60},
-		{"id":"603a20918119f835","type":"file","file":"Game Script/Chapter 1/Back Alley Bargains.md","x":-10899,"y":-4040,"width":338,"height":53},
-		{"id":"55acc052af58f8fb","type":"file","file":"Game Script/Chapter 1/Sewer Intro.md","x":-10851,"y":-3877,"width":242,"height":50},
-		{"id":"3a9eb8e238b5a408","type":"file","file":"Game Script/Chapter 1/Sewer Tenebris Boss.md","x":-10898,"y":-3732,"width":336,"height":60},
 		{"id":"a28608aa254a134c","type":"file","file":"Game Script/Chapter 1/Enter Blingo.md","x":-9876,"y":-3516,"width":238,"height":50},
 		{"id":"8a7123213f20b24c","type":"file","file":"Game Script/Chapter 1/Blimbus Is Missing!!!.md","x":-9926,"y":-3339,"width":338,"height":52},
 		{"id":"f979f9c4afe9be60","type":"file","file":"Game Script/Chapter 1/Scrimbo Sewer.md","x":-9887,"y":-3159,"width":260,"height":52},
@@ -70,17 +67,21 @@
 		{"id":"a28dedccb990373d","type":"file","file":"Game Script/Chapter 2/FNAD Setup.md","x":-10350,"y":-2079,"width":229,"height":65},
 		{"id":"6b19a9282e807757","type":"file","file":"Game Script/Chapter 1/Malignant Blimbus Boss.md","x":-10435,"y":-2907,"width":395,"height":52},
 		{"id":"3c87387393ba7cbb","type":"file","file":"Game Script/Chapter 1/Donny's Introduction.md","x":-10435,"y":-4500,"width":354,"height":53},
-		{"id":"0f9fd29092e4ad8b","type":"file","file":"Game Script/Chapter 1/Tenevictim News Report.md","x":-10930,"y":-4197,"width":401,"height":50},
 		{"id":"91f405b14e0c2e91","type":"file","file":"Game Script/Chapter 1/Tenebottle Release.md","x":-10877,"y":-4720,"width":299,"height":60},
 		{"id":"664cefda1e91af38","type":"text","text":"Chapter 1 - The Start of Something Terrible","x":-11020,"y":-2579,"width":1565,"height":50},
-		{"id":"0093e691d164c396","x":-11457,"y":-5026,"width":250,"height":211,"type":"text","text":"Scene ID Legend\n\n1.2.3\n\n1 -  Chapter of Origin\n2 - Placement in Time\n3 - Subset of the scene"}
+		{"id":"0093e691d164c396","type":"text","text":"Scene ID Legend\n\n1.2.3\n\n1 -  Chapter of Origin\n2 - Placement in Time\n3 - Subset of the scene","x":-11457,"y":-5026,"width":250,"height":211},
+		{"id":"31ad9778487dada8","type":"text","text":"Chapter 6 - Project: Blimbus","x":-11015,"y":6540,"width":1565,"height":50},
+		{"id":"0f9fd29092e4ad8b","type":"file","file":"Game Script/Chapter 1/Tenevictim News Report.md","x":-10928,"y":-4257,"width":401,"height":50},
+		{"id":"603a20918119f835","type":"file","file":"Game Script/Chapter 1/Back Alley Bargains.md","x":-10897,"y":-4100,"width":338,"height":53},
+		{"id":"3a9eb8e238b5a408","type":"file","file":"Game Script/Chapter 1/Sewer Tenebris Boss.md","x":-10896,"y":-3792,"width":336,"height":50},
+		{"id":"6a6e7cb56997d3d2","type":"text","text":"Gameplay Segment 1 - Exploring Jimple","x":-10042,"y":-4420,"width":250,"height":60},
+		{"id":"bef1aba55e81778c","type":"text","text":"Gameplay Segment 2 - Exploring Jimple","x":-11125,"y":-4020,"width":250,"height":60},
+		{"id":"c26b280cbdca5d3b","type":"text","text":"Gameplay Segment 3 - Sewer Intro","x":-10580,"y":-3900,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"ee56713053d15706","fromNode":"8e9115cc1feaa169","fromSide":"bottom","toNode":"a28608aa254a134c","toSide":"top"},
 		{"id":"2a0d35fc471b88ad","fromNode":"3c87387393ba7cbb","fromSide":"bottom","toNode":"0f9fd29092e4ad8b","toSide":"top"},
 		{"id":"ab87d12ce3cfb922","fromNode":"0f9fd29092e4ad8b","fromSide":"bottom","toNode":"603a20918119f835","toSide":"top"},
-		{"id":"ff3fefb9e99097b5","fromNode":"603a20918119f835","fromSide":"bottom","toNode":"55acc052af58f8fb","toSide":"top"},
-		{"id":"600eb396abb8eb29","fromNode":"55acc052af58f8fb","fromSide":"bottom","toNode":"3a9eb8e238b5a408","toSide":"top"},
 		{"id":"2886f75bfc51a8fe","fromNode":"8a7123213f20b24c","fromSide":"bottom","toNode":"f979f9c4afe9be60","toSide":"top"},
 		{"id":"517f661f9a702fd6","fromNode":"f979f9c4afe9be60","fromSide":"bottom","toNode":"6b19a9282e807757","toSide":"top"},
 		{"id":"59bcbcf542af9ca6","fromNode":"3a9eb8e238b5a408","fromSide":"bottom","toNode":"6b19a9282e807757","toSide":"top"},
@@ -137,6 +138,7 @@
 		{"id":"64b70625e020abdc","fromNode":"bbd854ba7df0ab2c","fromSide":"bottom","toNode":"b18833797fccbd24","toSide":"top"},
 		{"id":"fe076d2cc149121a","fromNode":"b18833797fccbd24","fromSide":"bottom","toNode":"95dc7968ad48f2fd","toSide":"top"},
 		{"id":"be437a7d3127d28b","fromNode":"62bce1f1050b373f","fromSide":"bottom","toNode":"91f405b14e0c2e91","toSide":"top"},
-		{"id":"32fdee60779a8d57","fromNode":"91f405b14e0c2e91","fromSide":"bottom","toNode":"3c87387393ba7cbb","toSide":"top"}
+		{"id":"32fdee60779a8d57","fromNode":"91f405b14e0c2e91","fromSide":"bottom","toNode":"3c87387393ba7cbb","toSide":"top"},
+		{"id":"d145d5da144f7c08","fromNode":"603a20918119f835","fromSide":"bottom","toNode":"3a9eb8e238b5a408","toSide":"top"}
 	]
 }

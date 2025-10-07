@@ -22,7 +22,7 @@ b3: "Weird..."
 
 (The bottle shakes in his hand, causing him to yelp and drop it, where it shatters on the floor, spilling the black liquid across the dirty concrete. It is viscous in nature, and has a slight sheen from the light refracting off it. Blimbus looks concerned, but has no words.)
 
-(The liquid on the ground rolls, seeps together almost, trying to form a small stalk to hold itself up, but failing, splatting back on the ground. Needle thin tendrils stretch out swiftly toward the shards of glowing broken glass, taking hold for just a second before sucking them in as quick as it has reached out to them, following shortly by a sickening crunch and small expansion of the creature's frame.)
+(The liquid on the ground rolls, seeps together almost, trying to form a small stalk to hold itself up, but failing, splatting back on the ground. Needle thin tendrils stretch out swiftly toward the shards of glowing broken glass, taking hold for just a second before sucking them in as quick as it has reached out to them, followed shortly by a sickening crunch and small expansion of the creature's frame.)
 
 (The camera cuts to a shot from the side showing both the creature and Blimbus, who is still standing, observing.)
 

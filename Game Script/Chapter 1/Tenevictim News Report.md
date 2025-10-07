@@ -1,19 +1,26 @@
+Scene ID: 1.4.1
 
-B: “Ahhh. That humble homey home smell, gotta love it.”  
-B: “I still don’t have a nose.”  
-  
-(Blimbus walks through his house, a weird montage of him walking through the living room brushing his teeth, putting on his sleep hat, then going to lock the door, when he sees the news.)  
-  
-B: “Wha..?”  
-  
-(The report onscreen shows a random Bophite with a large comical red X over their picture. The reporter continues their story)  
-  
-R: “-in Jimple City today where a… horrible murder has just been discovered. A young man named Hickle McSqueezy has been found mangled and bruised all over in an alleyway just behind Nowhere St. An odd part about this discovery, though, is that all of his organs seemed to be cleanly harvested, yet a weird, black, unexplained residue could be seen along the walls of what was one Mr. McSqueezy’s skin. Jimply City officials have stated there are no witnesses, no apparent footprints leading to or from the murder scene, and no foreign Bophite DNA in the surrounding area. Strangest of all, however, is that his family called in saying he left the house slumping, not acting like himself at all, and refusing to speak.”  
-  
-R: “And now onto more important news… SPORTS!!!”  
-  
-(We get a dolly zoom on Blimbus, where we see him not smiling for the first time.)
+(Blimbus slumps down into his couch, grabbing the remote and clicking it on, TV static shining on his face.)
 
-B: “C-Could that have been that… that silly black thing?”  
-B: “Fffffffffffiddlesticks.”  
-B: “I - I gotta do somethin’ bout this.”**
+(Cut to TV view. Blimbus clicks through a few channels before stopping on JNN. The news reporter is beginning a new story. The camera slowly zooms on the TV while the report is given. TV Dinner begins to play now.)
+
+n1: "Welcome back to JNN, the one and only source of news in the great Jimple City. I'm your host, Richard B. Stroganoff, and we have JUST been given another JUICY happening within Jimple."
+
+(A picture of a happy looking Bophite is shown on screen.)
+n2: "A young Bophite has been found killed in an alleyway next to a local breakfast diner, Donny's. Reports indicate that the innards of the young Bophite were scooped clean from his body." (Cut back to Blimbus' face, looking distraught.)
+
+n3: "Investigators suspect foul play is involved. However, there are no fingerprints at the scene, just a dark residue left on the victims skin."
+
+(The report starts decreasing in volume while TV Dinner fades in further, dolly zooming slowly on Blimbus' face.)
+
+n4: "The residue is suspected to come from a nearby opening to the Jimple sewer network. A forensic team has been deployed to sample the substance and determine its origin. It is suspected that this black ooze is just sewer muck that the victim was poisoned with, though only time will tell. Blah Blah Blah blah blah... bla-blah... blah!"
+
+(TV Dinner ends, Blimbus shakes his head, the camera returning to normal. Cut back to the TV)
+
+n5: "And now onto more important news... SPOR-" (The TV clicks off, reflecting Blimbus off the black glass of the TV screen. It fades into an actual shot of Blimbus in an entirely black void aside from his couch.)
+
+b1: "That... couldn't have been that silly black thing, could it?"
+
+b2: "Ffffffffiddlesticks... I need to go back and stop this thing."
+
+**SCENE END**

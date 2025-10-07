@@ -1,122 +1,118 @@
+Scene ID: 1.4.1
 
-(Once you reach the alleyway, you enter a cutscene. Blimbus walks to the entrance and stops when he notices (mystery arp) that a weird pop up shop mysteriously appeared where it wasn’t before. He notices it almost seems built into the wall, already showing signs of weathering… strange. Blimbus, absolutely befuddled, walks up to the shops entrance and reads the sign.)  
-  
-B: “Back Alley Bargains… odd.”  
-  
-(He opens the door and walks inside, he steps forward slowly, as if to be cautious. Looking ahead, he sees a cashiers desk with no register and a singular rotary phone. The phone lets out a reverberated ring. Blimbus looks behind him to see the door wide open, sees that there’s nobody in sight, and picks up the phone, lifting it to what would be his ear. A mysterious grumbled voice simply utters…)  
-  
-MM: “Behind you.”  
-(Startled, he jerks his head backwards and finds the door has disappeared, and is a solid wall. Blimbus, shaken, stares back at the phone, the receiver still held up to his ear. A dark, tall, looming presence rises over Blimbus, smiling wide. The figure reaches a purple sleeved arm out to the receiver, and 2 chartreuse green fingers poke out and gently pull back Blimbus’ hand, laying the receiver onto the phone, hanging up the call. The looming presence, instantly shifting attitude, now speaks.)  
-  
-MM: “Welcome to Back Alley Bargains, where you can get your contraband cheap.”  
-MM: “Can I help ya’ find anything?”  
-  
-(Blimbus lets out a short breath, genuinely awestruck, before speaking.)  
-  
-B: “If I had a nickel for every time I met a mysterious, dubious creature in this very alleyway… I-”  
-  
-MM: “You’d have 2 nickels?”  
+**START OF SCENE**
 
-B: “... Yeah, I would.”  
-  
-MM: “You would.”
+(Blimbus rounds the corner of the alleyway, cautious and careful. The camera follows the side of him, watching as he turns into the entrance of the alley to spot a tall, obscured figure looming over the spot Blimbus shattered the bottle. Blimbus jumps, giving a small yelp while dashing out of view of the figure, unable to make out any color under the moonlight. The camera pans over without Blimbus to show the figure turned around, white eyes piercing through the dark to survey the entrance to the alley. It squints before dashing into a nearby door embedded in the wall of the alley, which slams shut.)
 
-B: “Um… you got some big hands there, sir.”  
-  
-(Mystery Man holds up his hand, twisting it.)  
-  
-MM: “Looks about the same size it was yesterday, and the day before, ya’ get the deal.”  
-(He grins a toothy grin, splaying his fingers, Blimbus is wide eyed.)  
-  
-MM: “So, how can I help you today? Or rather, how could you help me?”  
-  
-B: “Hmm?”  
-  
-MM: “Nevermind all that.”  
-MM: “I assume something very specific drew you to this alley, hmm?  
-  
-B: “You could say that.”  
-  
-MM: “I just did.” (funny smile)  
-MM: “Have you ever felt like you did something bad, but at the time, you didn’t know it was bad, and now you’re scrambling to find the source of the issue and… bottle it up?”
+(Blimbus, alarmed, slowly walks back into the alley, noticing the figures absence and a curiously askew manhole in its place.)
 
-B: “Yeah, that’s like- exactly my problem.”  
-  
-MM: “I’m sure it is, Blimbus.”  
-  
-B: “Wa-wa-wait How do you know my name?”  
-  
-MM: “Word gets around.”
+b1: "Who..."
 
-MM: “I do think I have an answer for your problem, though.”  
-MM: “Ya’ know, I see things. Lots of things. What you did in that there alley, for instance.”  
-MM: “That… thing… you released… is bad news blues, amigo.”  
-MM: “Bluer than you, I’m afraid.”  
-MM: “See, this thing wants to eat. No, it has to eat.”  
-MM: “What happened to that innocent man earlier today, that ‘strange black residue’ is all too familiar isn’t it?”  
-MM: “We both know that you know.”  
-MM: “Now lemme tell ya.’”  
-MM: “You’ve got a long road ahead of you.”  
-MM: “This brand of Armageddon doesn’t just go away in a day.”  
-MM: “Better hope you filled up your tank.”  
-MM: “...and lucky you! The first stop on this road… was meeting me.”  
-MM: “Only took 34 years… your grand mistake.”  
-  
-B: “I uh… I don’t get it.”  
-  
-MM: “Of course you don’t” - smiling  
-MM: “Before I continue, you thirsty?”  
-  
-B: “Yeah I could drink.”  
-  
-(Mystery Man pulls from under his desk an already filled cup, extending his arm to Blimbus. Blimbus swirls the liquid, seeing its blue hue. He takes a huge swig, smacking his lips in distaste.)  
-  
-B: “Uh… what is this?”  
-  
-MM: “Antifreeze, tasty stuff huh?”  
-  
-(Blimbus wipes his tongue with his hand before downing the rest of the glass, as to not be rude, letting out a weird sigh while he sets the glass on Mystery Man’s desk.)
+(Blimbus looks up at the door, which seems to be embedded in the wall as if it had been there for years. A weathered sign above reads in scratched black paint.)
 
-MM: “Now, like I was saying. That thing is no more alive than its victim is now.”  
-MM: “McSomething or other, was it?”  
-MM: “It’s motivated by one thing.”  
-MM: “Survival.”  
-MM: “Unfortunately for us, survival is a zero-sum game when it comes to this thing.”  
-MM: “For it to persist, we… you… need to die.”  
-  
-B: “Me like me specifically??”  
-  
-MM: “No.”  
-  
-B: “Uh… ok.”  
-  
-MM: “It has an unending hunger it can never seem to satisfy.”  
-MM: “.. and it’s your job to make sure it can’t make it to supper.”  
-MM: “We call this thing Tenebris.”  
-  
-B: “Who is ‘we?’”
+b2: "Back Alley Bargains... odd." (He emphasizes every word, curious.)
 
-MM: “Doesn’t matter right now.”  
-MM: “What does matter, however, is finding Tenebris before another innocent man gets turned into an organ smoothie.  
-  
-B: “So, what do I do?”  
-  
-MM: laughing softly “Find it, of course.”
+(He goes to turn the doorknob, the camera focusing on his hand. He throws it open, the camera zooming back out to show the room inside devoid of any dark figure. Blimbus lingers for a moment before walking inside, closing the door politely behind him.)
 
-MM: “Do you remember seeing it go anywhere?”  
-  
-B: “Yeah… it slunk away into a vent after it stared at me a bunch.”
+**END* OF SCENE**
 
-  
-MM: “Then I think you know where to start looking.”  
-  
-(The phone begins to ring again. Blimbus looks down at the phone, then back to MM.)  
-  
-MM: “It’s for you.”  
-  
-(Blimbus stares at the phone, slowly picking it up. As he looks back up, Mystery Man is gone. There was no voice on the other end, just static and a dial tone. Blimbus looks behind him, and the door is now back and opened. Yet mysteriously, warm yellow light pours in through the opening, it was daytime. Blimbus walks out into the open daylight, looking out of the alleyway and noticing a weird lack of cheerful smiles on the passing Bophites faces. He pivots to close the door but is shocked to find that the entire entrance has mysteriously vanished.)  
-  
-B: “That couldn’t have just been a dream, huh…”  
-B: “I guess I really do need to look into this Tenebris thing.”  
-  
-(What was strange is that Blimbus still felt like he was holding the currently vanished doorknob, he looks to his hand and sees a strange punchcard grasped lightly. Yada Yada details it’s your true ending card, there’s one stamp out in the shape of a large brimmed hat.)
+**START* OF SCENE**
+
+Scene ID: 1.4.2
+
+(The camera follows a walking shot of Blimbus as he looks around at the wares of Back Alley Bargains, coming to a slow stop when he notices the counter in front of him. We get a shot of just the desk, the sign from earlier brandished above a la Krusty Krab menu. There is a dingy rotary phone sitting on the counter and a rusty bell.) 
+
+(The phone begins to ring, startling Blimbus, who turns around to leave. Curiously, however, the door Blimbus entered from is GONE?!?!?!?! Vanished as if it were never there in the first place. Blimbus hears the rattling of a doorknob, tensing up while he finds the source of the noise to be a door behind the front counter.)
+
+(Camera does Mystery Man Entrance Sequence (Talk to Charlie later when storyboarding) showing Mystery Man opening the door, walking to the desk, and picking up the phone to answer.)
+
+mm1: "Welcome to Back Alley Bargains, where you get your contraband cheap. What can I uh..."
+
+(He trails off, having spotted Blimbus, a little bubble in the corner shows him starting to sweat.)
+
+mm2: "Tell ya what, gimmie a ring in about 10 minutes, I'll discount ya for the wait. I've got a customer on-site who could use a little attention."  (He hangs up the phone, the camera emphasizing his fingers.)
+
+**Change to Cutscene Dialogue**
+
+mm3: "You there, chap in the blue, I'm sure I can skip the formalities, you having heard what this place is about and all."
+mm4: "What can I do ya for?"
+
+b2: "Oh no I'm not here to buy anything, just uh... where am I?"
+
+mm5: "Can't you read a sign?"
+mm6: "Back Alley Bargains, where you get your contraband cheap."
+
+b3: "I'm not really in the market for contraband right now..."
+
+mm7: "Good chatting then, you're free to leave whenever."
+mm8: "If ya change your mind, I'm always sellin'." (He's turning to leave.)
+
+b4: "Wait, sir..."
+b5: "I um... saw you in the alleyway."
+
+mm9: "Oh yeah, sorry if I startled ya."
+mm10: "This is usually the time of night where I get out to do my dirty work."
+mm11: "Or in this case... yours."
+
+b6: "You... knew about that?"
+
+(Mystery Man rummages underneath the counter, pulling out the shattered top of a bottle, the glass glowing softly.)
+
+mm12: "Recognize this?"
+
+b7: *Noises of confusion* "Yeah..."
+
+mm13: "Last I checked, the ceaseless black monster I had trapped inside was still here."
+mm14: "Do you see a ceaseless black monster inside this bottle?"
+
+b8: "No..."
+
+mm15: "And that's my problem now."
+
+mm16: "See, that thing was stuck in this bottle for a very specific reason."
+mm17: "Now, since you got it before I did, it's free to roam Jimple..."
+mm18: "Making a meal out of anyone who gets close enough."
+
+b9: "Oh gosh, what do I do?"
+
+mm19: "Go after it, obviously."
+
+b10: "I don't even know what "it" is, much less where to find it."
+
+mm20: "Where I come from, we call this thing Tenebris."
+mm21: "It has an unending hunger it can never seem to satisfy."
+mm22: "It may start with just a couple unfortunate Bophites, but as it feeds, it grows."
+mm23: "Bad news blues amigo, bluer than you I'm afraid."
+
+b11: "How do I stop this... Tenebris thing?"
+
+mm24: "It's... complicated."
+mm25: "Focus on locating it first."
+mm26: "Then, and only then, we'll tackle the whole defeating it thing."
+mm27: "That is... if you even *want* to help."
+
+b12: "Yes, of course I want to help!"
+b13: "But, again, I don't even know where to start."
+
+mm28: "Well, did you see it go anywhere?"
+
+b14: "Yeah... after it started moving it slunk into the..."
+b15: "Oh my gosh the sewer."
+
+mm29: "There ya' go, kid."
+mm30: "Objective #1."
+(Mystery Man fluffs a newspaper in his face, ignoring Blimbus for the remainder of the cutscene.)
+
+b16: "But how do I-"
+b17: "Nevermind."
+
+**End of Cutscene Dialogue**
+
+(Blimbus turns around to find a way out, and mysteriously, the door has reappeared. He walks out, taking a look at the open sewer manhole, gulping.)
+
+**END OF SCENE**
+
+
+
+
+
