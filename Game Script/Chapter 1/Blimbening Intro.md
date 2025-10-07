@@ -1,8 +1,8 @@
 Scene ID: 1.1.1
 
-**START OF SCENE
+**START OF CHAPTER**
 
-(We open on a bright sky in perpetual early sunset, clouds strewn about a beaming sun. There is small lush ambiance featuring swaying foliage and the chirping of small animals. The camera pans down to a birds eye view of Jimple City, block zooming onto a small street, further to a small house, then to a floor view of the front door of the house.)
+(We open on a bright blue sky, clouds strewn about a beaming sun. There is small lush ambiance featuring swaying foliage and the chirping of small animals. The camera pans down to a birds eye view of Jimple City, block zooming onto a small street, further to a small house, then to a floor view of the front door of the house.)
 
 (B starts to fade in)
 
@@ -23,7 +23,6 @@ b6: "If I wasn't horribly late."
 (An alarm on an old looking phone rings on the edge of his sink. "Reminder, your activity: TOILS FOR PANCAKE MAN starts in 5 minutes!")
 
 b7: "Oh...!"
-
 b8: "FFFFFFFIDDLESTICKS, I'M GONNA BE LATE!!!"
 
 (B² starts playing as a montage ensues that mirrors the prior sequence. He rushes out of the door, bumping into a few Bophites that he waved to in the earlier montage. While he runs down the road, the camera pans back up to the sky, where the logo for the game fades onscreen.)

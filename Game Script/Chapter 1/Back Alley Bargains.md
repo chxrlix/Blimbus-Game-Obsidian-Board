@@ -34,73 +34,74 @@ mm2: "Tell ya what, gimmie a ring in about 10 minutes, I'll discount ya for the 
 
 **Change to Cutscene Dialogue**
 
-mm3: "You there, chap in the blue, I'm sure I can skip the formalities, you having heard what this place is about and all."
-mm4: "What can I do ya for?"
+mm3: "You there, chap in the blue! 
+mm4:"I'm sure I can skip the formalities, you having heard what this place is about and all."
+mm5: "What can I do ya for?"
 
 b2: "Oh no I'm not here to buy anything, just uh... where am I?"
 
-mm5: "Can't you read a sign?"
-mm6: "Back Alley Bargains, where you get your contraband cheap."
+mm6: "Can't you read a sign?"
+mm7: "Back Alley Bargains, where you get your contraband cheap."
 
 b3: "I'm not really in the market for contraband right now..."
 
-mm7: "Good chatting then, you're free to leave whenever."
-mm8: "If ya change your mind, I'm always sellin'." (He's turning to leave.)
+mm8: "Good chatting then, you're free to leave whenever."
+mm9: "If ya change your mind, I'm always sellin'." (He's turning to leave.)
 
 b4: "Wait, sir..."
 b5: "I um... saw you in the alleyway."
 
-mm9: "Oh yeah, sorry if I startled ya."
-mm10: "This is usually the time of night where I get out to do my dirty work."
-mm11: "Or in this case... yours."
+mm10: "Oh yeah, sorry if I startled ya."
+mm11: "This is usually the time of night where I get out to do my dirty work."
+mm12: "Or in this case... yours."
 
 b6: "You... knew about that?"
 
 (Mystery Man rummages underneath the counter, pulling out the shattered top of a bottle, the glass glowing softly.)
 
-mm12: "Recognize this?"
+mm13: "Recognize this?"
 
 b7: *Noises of confusion* "Yeah..."
 
-mm13: "Last I checked, the ceaseless black monster I had trapped inside was still here."
-mm14: "Do you see a ceaseless black monster inside this bottle?"
+mm14: "Last I checked, the ceaseless black monster I had trapped inside was still here."
+mm15: "Do you see a ceaseless black monster inside this bottle?"
 
 b8: "No..."
 
-mm15: "And that's my problem now."
+mm16: "And that's my problem now."
 
-mm16: "See, that thing was stuck in this bottle for a very specific reason."
-mm17: "Now, since you got it before I did, it's free to roam Jimple..."
-mm18: "Making a meal out of anyone who gets close enough."
+mm17: "See, that thing was stuck in this bottle for a very specific reason."
+mm18: "Now, since you got it before I did, it's free to roam Jimple..."
+mm19: "Making a meal out of anyone who gets close enough."
 
 b9: "Oh gosh, what do I do?"
 
-mm19: "Go after it, obviously."
+mm20: "Go after it, obviously."
 
 b10: "I don't even know what "it" is, much less where to find it."
 
-mm20: "Where I come from, we call this thing Tenebris."
-mm21: "It has an unending hunger it can never seem to satisfy."
-mm22: "It may start with just a couple unfortunate Bophites, but as it feeds, it grows."
-mm23: "Bad news blues amigo, bluer than you I'm afraid."
+mm21: "Where I come from, we call this thing Tenebris."
+mm22: "It has an unending hunger it can never seem to satisfy."
+mm23: "It may start with just a couple unfortunate Bophites, but as it feeds, it grows."
+mm24: "Bad news blues amigo, bluer than you I'm afraid."
 
 b11: "How do I stop this... Tenebris thing?"
 
-mm24: "It's... complicated."
-mm25: "Focus on locating it first."
-mm26: "Then, and only then, we'll tackle the whole defeating it thing."
-mm27: "That is... if you even *want* to help."
+mm25: "It's... complicated."
+mm26: "Focus on locating it first."
+mm27: "Then, and only then, we'll tackle the whole defeating it thing."
+mm28: "That is... if you even *want* to help."
 
 b12: "Yes, of course I want to help!"
 b13: "But, again, I don't even know where to start."
 
-mm28: "Well, did you see it go anywhere?"
+mm29: "Well, did you see it go anywhere?"
 
 b14: "Yeah... after it started moving it slunk into the..."
 b15: "Oh my gosh the sewer."
 
-mm29: "There ya' go, kid."
-mm30: "Objective #1."
+mm30: "There ya' go, kid."
+mm31: "Objective #1."
 (Mystery Man fluffs a newspaper in his face, ignoring Blimbus for the remainder of the cutscene.)
 
 b16: "But how do I-"
