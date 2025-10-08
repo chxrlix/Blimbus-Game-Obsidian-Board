@@ -21,21 +21,23 @@ Scene ID: 1.8.2
 
 (Scrimbo jolts awake to the sound of a blaring alarm and a commanding pounding from his front door. He scrunches his face and blinks, groaning loudly. He looks to his alarm, scowling and slamming it into his nightstand, breaking it in the process.)
 
-Still in his nightgown, he walks to his front door, rubbing his face with his hand, with his other on the doorknob. He opens it, and Blingo's theme begins to play.
+(Still in his nightgown, he walks to his front door, rubbing his face with his hand, with his other on the doorknob. He opens it, and Blingo's theme begins to play.)
 
-The camera pans from the bottom of Blingo to the top, showing off his... bling, and zooming out to show his two henchmen behind him, Scrimbo in the corner of the screen.
+(The camera pans from the bottom of Blingo to the top, showing off his... bling, and zooming out to show his two henchmen behind him, Scrimbo in the corner of the screen.)
 
-"SCRIMBO!!!" Blingo spits. 
-"You look like shit." He says matter of factly.
+bl1: "SCRIMBO!!!"
+bl2: "You look like shit."
 
-"You woke me up." Scrimbo retorts with a gravely voice.
+s1: "You woke me up." 
 
-"The rent?" Blingo asks with an outstretched hand, ignoring Scrimbo's previous comment.
+bl3: "The rent?" 
 
-Scrimbo sighs, "Listen man, I don't have all of it, if you could just give me a couple days-"
+s2: *Sigh* "Listen man, I don't have all of it, if you could just give me a couple days-"
 
-"Listen buddy, I make the rules, and the rules SAY you gotta have your rent... right now." Blingo cuts Scrimbo off.
-"Shivlad, tell him what we do to scrubs who pay their rent late." He says, gesturing over his shoulder at a tall Bophite. Shivlad cracks his knuckles, grunting at Scrimbo, who gives a confused expression in response, sharing a look with a smug Blingo.
+bl4: "Now you better listen buddy, I make the rules, and the rules SAY you gotta have your rent... right now."
+bl5: "Shivlad, tell him what we do to scrubs who pay their rent late." 
+
+(He gestures over his shoulder at a tall Bophite, Shivlad. He cracks his knuckles, grunting at Scrimbo, who gives a confused expression in response, sharing a look with a smug Blingo.
 
 "You'll get yer ass beat." Blingo says, his smile dropped.
 "You're supposed to say- ugh nevermind." Blingo says to Shivlad, he continues.
