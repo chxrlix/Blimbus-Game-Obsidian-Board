@@ -73,12 +73,12 @@
 		{"id":"78cfbf097673845f","type":"text","text":"Chapter 3 - The Crimson Cult","x":-11013,"y":-179,"width":1565,"height":50},
 		{"id":"cc0c58ec0a779a0d","type":"file","file":"Game Script/Chapter 3/Enter Dimbus.md","x":-10826,"y":-32,"width":249,"height":65},
 		{"id":"6565abb06dc82f0f","type":"file","file":"Game Script/Chapter 3/Scrimbo Kidnapping.md","x":-9926,"y":-32,"width":349,"height":78},
-		{"id":"a28608aa254a134c","type":"file","file":"Game Script/Chapter 1/Enter Blingo.md","x":-9871,"y":-3260,"width":238,"height":50},
-		{"id":"8a7123213f20b24c","type":"file","file":"Game Script/Chapter 1/Blimbus Is Missing!!!.md","x":-9921,"y":-3079,"width":338,"height":52},
-		{"id":"f979f9c4afe9be60","type":"file","file":"Game Script/Chapter 1/Scrimbo Sewer.md","x":-9882,"y":-2899,"width":260,"height":52},
 		{"id":"76f314fe7e01c5d4","type":"file","file":"Game Script/Chapter 2/Blingo Hires Scrimbo.md","x":-10003,"y":-1581,"width":342,"height":50},
-		{"id":"fdd0bbd09fd712c0","type":"text","text":"Gameplay Segment 3 - Exploring Jimple Ghetto","x":-9592,"y":-3620,"width":250,"height":60},
-		{"id":"5532f7521c820836","x":-9921,"y":-3500,"width":339,"height":68,"type":"file","file":"Game Script/Chapter 1/Crime St. Thugs Fight.md"}
+		{"id":"8a7123213f20b24c","type":"file","file":"Game Script/Chapter 1/Blimbus Is Missing!!!.md","x":-9921,"y":-3140,"width":338,"height":52},
+		{"id":"f979f9c4afe9be60","type":"file","file":"Game Script/Chapter 1/Scrimbo Sewer.md","x":-9882,"y":-2960,"width":260,"height":52},
+		{"id":"a28608aa254a134c","type":"file","file":"Game Script/Chapter 1/Enter Blingo.md","x":-9871,"y":-3340,"width":238,"height":50},
+		{"id":"fdd0bbd09fd712c0","type":"text","text":"Gameplay Segment 3 - Exploring Jimple Ghetto","x":-9592,"y":-3580,"width":250,"height":60},
+		{"id":"adbf3c0d219c730d","type":"text","text":"Gameplay Segment 5 - Exploring Jimple Ghetto","x":-9960,"y":-2707,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"2a0d35fc471b88ad","fromNode":"3c87387393ba7cbb","fromSide":"bottom","toNode":"0f9fd29092e4ad8b","toSide":"top"},
@@ -141,7 +141,6 @@
 		{"id":"be437a7d3127d28b","fromNode":"62bce1f1050b373f","fromSide":"bottom","toNode":"91f405b14e0c2e91","toSide":"top"},
 		{"id":"32fdee60779a8d57","fromNode":"91f405b14e0c2e91","fromSide":"bottom","toNode":"3c87387393ba7cbb","toSide":"top"},
 		{"id":"d145d5da144f7c08","fromNode":"603a20918119f835","fromSide":"bottom","toNode":"3a9eb8e238b5a408","toSide":"top"},
-		{"id":"36cac639744e892c","fromNode":"8e9115cc1feaa169","fromSide":"bottom","toNode":"5532f7521c820836","toSide":"top"},
-		{"id":"62b42b7e3d0b71c1","fromNode":"5532f7521c820836","fromSide":"bottom","toNode":"a28608aa254a134c","toSide":"top"}
+		{"id":"f02f1adf32eab684","fromNode":"8e9115cc1feaa169","fromSide":"bottom","toNode":"a28608aa254a134c","toSide":"top"}
 	]
 }

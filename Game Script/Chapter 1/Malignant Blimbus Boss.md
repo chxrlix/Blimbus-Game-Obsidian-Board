@@ -1,4 +1,4 @@
-Scene ID: 1.12.1
+Scene ID: 1.11.1
 
 **START OF SCENE**
 
@@ -22,4 +22,20 @@ s6: "D'you have any idea how bad of a joke this is?"
 s7: "I'm all for being a jerk, but this just ain't like you."
 s8: "So if you don't start talking, I'm gonna come over there and beat your ass, understand?"
 
-(Camera focuses on Blimbus, who is still silent.)
+(Camera focuses on Blimbus, who is still silent. Cut back to Scrimbo.)
+
+s9: "Okay that's it."
+
+(Scrimbo walks out of frame. The camera cuts back to Blimbus, interrupted by Scrimbo walking over and putting his hand on his shoulder. As he does this, Blimbus' head jerks around to face Scrimbo, as if flung by some external force. His eyes are white and glossy, and his mouth is leaking black fluid. He has a gnarly crack on the top of his head that is oozing the same black fluid. Scrimbo screams and falls back, scooting away on the sewer floor.)
+
+s10: "WHAT THE FUCK???"
+
+(The camera focuses from Scrimbo's POV. Blimbus turns his whole body, his feet still planted in the same direction. He holds this pose for a second before his feet walk to face the proper direction, his body swaying as if it's only being led from one weight point at a time. While this goes on, we hear Scrimbo breathing heavy, muttering "oh my god" and "what the fuck" and "what happened to him.")
+
+(The camera cuts to the side of Blimbus, focused on his arms. Black goop seeps from the tops of his arms and begins to coat them. Blimbus slowly hunches over, the goop acting as a bone to hold them up in a curve before thickening to become the signature claws of Malignant Blimbus.)
+
+(The camera cuts to a front view of Malignant Blimbus, his body convulsing slightly. Black goops spits from his mouth, and we see his mouth open and these words come out.)
+
+mb: "Found it."
+
+**SCENE END**
