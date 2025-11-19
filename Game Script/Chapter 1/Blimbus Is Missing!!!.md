@@ -33,7 +33,7 @@ s6: "Missing?"
 
 d9: "Yeah, him and a couple others."
 d10: "They suspect it's got something to do with this new string of killings."
-d11: "The Dark Prince, real dumb sounding name."
+d11: "The Dark Prince, they're callin' em."
 
 s7: "What kinda fuckin' edgy name is the Dark Prince?"
 

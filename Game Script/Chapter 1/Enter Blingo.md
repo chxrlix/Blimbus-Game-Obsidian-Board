@@ -31,9 +31,9 @@ bl8: "If I have to do everything myself..."
 
 (Blingo walks up, shoving Shivlad out of the way and grabbing his knife, pointing it directly at Scrimbo this time.)
 
-bl9: "You've got till this time next week, Scrub."
+bl9: "You've got till' this time tomorrow, Scrub."
 bl10: "I don't take kindly to my tenants paying me late."
-bl11: "And if you think **IM** ugly... wait 'till you meet my boss."
+bl11: "And if you think **IM** ugly... you better hope you don't cross my boss."
 
 (He pauses for a beat before tossing the knife behind him, Shivlad scrambling to pick it up in the background while Blingo speaks.)
 
