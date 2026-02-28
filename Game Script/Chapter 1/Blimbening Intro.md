@@ -2,6 +2,8 @@ Scene ID: 1.1.1
 
 **START OF CHAPTER**
 
+**Change verbiage of starting lines**
+
 (We open on a bright blue sky, clouds strewn about a beaming sun. There is small lush ambiance featuring swaying foliage and the chirping of small animals. The camera pans down to a birds eye view of Jimple City, block zooming onto a small street, further to a small house, then to a floor view of the front door of the house.)
 
 (B starts to fade in)

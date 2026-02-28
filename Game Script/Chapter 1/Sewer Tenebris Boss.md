@@ -2,7 +2,7 @@ Scene ID: 1.6.1
 
 **START OF SCENE**
 
-(Blimbus walks into the room wearily, wiping his cheek free of goop. He stops dead in his tracks, his face contorting in horror, unable to even comprehend whatever he's looking at. The camera does a FULL ANIMATED TURNAROUND to show the first Prime Darknest.)
+(Blimbus walks into the room wearily, wiping his cheek free of goop. He stops dead in his tracks, his face contorting in horror, unable to even comprehend whatever he's looking at. The camera does a **FULL ANIMATED TURNAROUND** to show the first Prime Darknest.)
 
 Camera is now fully disconnected from Blimbus, focusing mostly on Tenebris.
 
@@ -10,7 +10,7 @@ Camera is now fully disconnected from Blimbus, focusing mostly on Tenebris.
 
 b1: "Found it." (His breath is rough.)
 
-(Cut back to Tenebris for a moment. We're given a side view of Tenebris, still slightly shaking. Big bro lurches its head back in an arch, its eye sinking into its head. The weight of its head causes it to lurch backward, the eye popping out perfectly to stare at Blimbus, the camera zooming out cleanly with the arch. We cut to a back view of Tenebris, mirroring the back view of Blimbus showing the Darknest from earlier.) 
+(Cut back to Tenebris for a moment. We're given a side view of Tenebris, still slightly shaking. Tenebris lurches its head back in an arch, its eye sinking into its head. The weight of its head causes it to lurch backward, the eye popping out perfectly to stare at Blimbus, the camera zooming out cleanly with the arch. We cut to a back view of Tenebris, mirroring the back view of Blimbus showing the Darknest from earlier.) 
 
 (The screen cuts to black for a moment, cutting back to show Tenebris halfway launched toward Blimbus, who steps away just in time to let Tenebris zoom past him. Tenebris slams into the ground, pivoting and launching himself back toward Blimbus. Blimbus, panicking, takes a sharp breath and throws his fist into Tenebris. His hand goes right through Tenebris head, sticking inside it while the rest of Tenebris body stretches past.)
 

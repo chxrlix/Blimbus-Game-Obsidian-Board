@@ -7,7 +7,7 @@ Scene ID: 1.4.1
 n1: "Welcome back to JNN, the one and only source of news in the great Jimple City. I'm your host, Richard B. Stroganoff, and we have JUST been given another JUICY happening within Jimple."
 
 (A picture of a happy looking Bophite is shown on screen.)
-n2: "A young Bophite has been found killed in an alleyway next to a local breakfast diner, Donny's. Reports indicate that the innards of the young Bophite were scooped clean from his body." (Cut back to Blimbus' face, looking distraught.)
+n2: "The body of a young Bophite has been found dead in an alleyway next to a local breakfast diner, Donny's. Reports indicate that the innards of the young Bophite were scooped clean from his corpse." (Cut back to Blimbus' face, looking distraught.)
 
 n3: "Investigators suspect foul play is involved. However, there are no fingerprints at the scene, just a dark residue left on the victims skin."
 

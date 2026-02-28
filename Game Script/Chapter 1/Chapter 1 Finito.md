@@ -17,7 +17,7 @@ s2: "Shit, shit, SHIT!!!"
 
 s3: "Who... are you?" (He asks between haggard breaths.)
 
-(Mystery man stands straight up, back to Scrimbo. He turns his head, the camera zooming in to show his one white eye piercing the darkness.)
+(Mystery man stands straight up, back to Scrimbo. He turns his head, the camera slowly focusing on his one white eye piercing the darkness.)
 
 mm1: "We've got a lot of work to do."
 

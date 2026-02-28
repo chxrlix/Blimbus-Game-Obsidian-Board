@@ -14,12 +14,6 @@ b2: "Back Alley Bargains... odd." (He emphasizes every word, curious.)
 
 (He goes to turn the doorknob, the camera focusing on his hand. He throws it open, the camera zooming back out to show the room inside devoid of any dark figure. Blimbus lingers for a moment before walking inside, closing the door politely behind him.)
 
-**END* OF SCENE**
-
-**START* OF SCENE**
-
-Scene ID: 1.4.2
-
 (The camera follows a walking shot of Blimbus as he looks around at the wares of Back Alley Bargains, coming to a slow stop when he notices the counter in front of him. We get a shot of just the desk, the sign from earlier brandished above a la Krusty Krab menu. There is a dingy rotary phone sitting on the counter and a rusty bell.) 
 
 (The phone begins to ring, startling Blimbus, who turns around to leave. Curiously, however, the door Blimbus entered from is GONE?!?!?!?! Vanished as if it were never there in the first place. Blimbus hears the rattling of a doorknob, tensing up while he finds the source of the noise to be a door behind the front counter.)
@@ -30,9 +24,13 @@ mm1: "Welcome to Back Alley Bargains, where you get your contraband cheap. What 
 
 (He trails off, having spotted Blimbus, a little bubble in the corner shows him starting to sweat.)
 
-mm2: "Tell ya what, gimmie a ring in about 10 minutes, I'll discount ya for the wait. I've got a customer on-site who could use a little attention."  (He hangs up the phone, the camera emphasizing his fingers.)
+mm2: "Tell ya what, gimmie a ring in about 10 minutes, I'll discount ya for the wait. I've got a customer on-site who could use a little attention."  (He hangs up the phone.)
 
-**Change to Cutscene Dialogue**
+**END* OF SCENE**
+
+**START* OF SCENE**
+
+Scene ID: 1.4.2
 
 mm3: "You there, chap in the blue! 
 mm4:"I'm sure I can skip the formalities, you having heard what this place is about and all."
@@ -71,7 +69,7 @@ b8: "No..."
 mm16: "And that's my problem now."
 
 mm17: "See, that thing was stuck in this bottle for a very specific reason."
-mm18: "Now, since you got it before I did, it's free to roam Jimple..."
+mm18: "Now, since you got to it before I did, it's free to roam Jimple..."
 mm19: "Making a meal out of anyone who gets close enough."
 
 b9: "Oh gosh, what do I do?"
@@ -90,26 +88,24 @@ b11: "How do I stop this... Tenebris thing?"
 mm25: "It's... complicated."
 mm26: "Focus on locating it first."
 mm27: "Then, and only then, we'll tackle the whole defeating it thing."
-mm28: "That is... if you even *want* to help."
 
-b12: "Yes, of course I want to help!"
-b13: "But, again, I don't even know where to start."
+b12: "I don't even know where to start."
 
-mm29: "Well, did you see it go anywhere?"
+mm28: "Well, did you see it go anywhere?"
 
-b14: "Yeah... after it started moving it slunk into the..."
-b15: "Oh my gosh the sewer."
+b13: "Yeah... after it started moving, it slunk into the..."
+b14: "Oh my gosh the sewer."
 
-mm30: "There ya' go, kid."
-mm31: "Objective #1."
+mm29: "There ya' go, kid."
+mm30: "Objective #1."
 (Mystery Man fluffs a newspaper in his face, ignoring Blimbus for the remainder of the cutscene.)
 
-b16: "But how do I-"
-b17: "Nevermind."
+b15: "But how do I-"
+b16: "Nevermind."
 
 **End of Cutscene Dialogue**
 
-(Blimbus turns around to find a way out, and mysteriously, the door has reappeared. He walks out, taking a look at the open sewer manhole, gulping.)
+(Blimbus turns around to find a way out, and mysteriously, the door has reappeared. He walks out, taking a look at the open sewer manhole, glancing back at the BAB door to find it gone. Befuddled, he looks back down to the sewer manhole, gulping.)
 
 **END OF SCENE**
 

@@ -33,7 +33,7 @@ b5: "Well hello there Scrimbo!" (Said with overly enthusiastic emphasis on each 
 
 (Scrimbo's neck shakily creaks upward, hearing a comical door hinge as his eyes are cursed with this stupid blue thing.)
 
-s1: "What. Do you want...?" (Through gritted teeth)
+s1: "What. Do. You. Want...?" (Through gritted teeth)
 
 b6: "Just asking how my best pal Scrimbo is doing!" (He says, putting an arm on Scrimbo's shoulder, to which he boils to full red like a tea kettle. Scrimbo shakes his head, throwing Blimbus' arm off.)
 
